@@ -29,7 +29,11 @@ Bir hobi projesidir, vakit buldukça geliştirilecektir.
 ![alt text](https://github.com/awelmisin/Mackolik-Api-Match-Scraper/blob/main/canli.png?raw=true)
 
 Aramak istediğiniz maçları tarih (dd/mm/yyyy) ve kod adlı get değişkenlerle arayabilir ya da 'canli.php' üzerindeki menüyü kullanarak topluca favorilere ekleyebilir ya da iddaa koduna tıklayarak maçı anlık takip edebilirsiniz.
-"0" kodlu maçlara İddaa tarafından bir kod verilmediği için API tarafından takibi mümkün olmamakta ve anlık güncellemeler yerine dakikalar/saatler içerisinde güncellemeler yapılmaktadır.
+
+## ❗ Hatırlatma
+- "0" kodlu maçlara İddaa tarafından bir kod verilmediği için API tarafından takibi mümkün olmamakta ve anlık güncellemeler yerine dakikalar/saatler içerisinde güncellemeler yapılmaktadır.
+- Localhost yerine sitede kurmak isteyen kullanıcılar MySQL kullanıp kurdukları database'i API'a bağlarlarsa (workaround yakında gelir) daha hızlı fetch sonuçları gelecektir.
+- Herhangi bir hata bildirimi için bana ulaşın.
 
 ## ✍️ Geliştirici
 - **github.com/awelmisin**
