@@ -1,6 +1,6 @@
 # Mackolik-Api-Match-Scraper
 ## Açıklama
-Bu proje, Mackolik'in halka açık API'sini kullanarak belirli bir tarihteki futbol ve basketbol maçlarını listeleyen ve canlı olarak takip etme imkanı sunan bir web uygulamasıdır.
+Bu proje, Maçkolik'in halka açık API'sini kullanarak belirli bir tarihteki futbol ve basketbol maçlarını listeleyen ve canlı olarak takip etme imkanı sunan bir web uygulamasıdır.
 Bir hobi projesidir, vakit buldukça geliştirilecektir.
 
 ## 🚀 Özellikler
