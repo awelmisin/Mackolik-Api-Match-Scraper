@@ -3,8 +3,6 @@
 Bu proje, Mackolik'in halka açık API'sini kullanarak belirli bir tarihteki futbol ve basketbol maçlarını listeleyen ve canlı olarak takip etme imkanı sunan bir web uygulamasıdır.
 Bir hobi projesidir, vakit buldukça geliştirilecektir.
 
-Ana fikir: https://github.com/EmreKara5aya/Php-Mackolik-Api
-
 ## 🚀 Özellikler
 
 - **Canlı Skor ve Dakika Takibi:** Maç listesi ve detay sayfası, verileri periyodik olarak otomatik günceller.
@@ -51,3 +49,6 @@ Aramak istediğiniz maçları tarih (dd/mm/yyyy) ve kod adlı get değişkenlerl
 ## Bağış
 - Buymeacoffee: https://buymeacoffee.com/awelmisin
 - USDT: 0x56c0c52c284031e12c3b085871d7fceadd933ec9
+
+## Teşekkürler
+- Ana fikir: https://github.com/EmreKara5aya/Php-Mackolik-Api
