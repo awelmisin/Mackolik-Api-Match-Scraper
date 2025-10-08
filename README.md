@@ -8,9 +8,12 @@ Ana fikir: https://github.com/EmreKara5aya/Php-Mackolik-Api
 ## 🚀 Özellikler
 
 - **Canlı Skor ve Dakika Takibi:** Maç listesi ve detay sayfası, verileri periyodik olarak otomatik günceller.
+  ![alt text](https://github.com/awelmisin/Mackolik-Api-Match-Scraper/blob/main/canli.png?raw=true)
 - **Spor Dallarına Göre Sekmeler:** Maçlar, "Futbol" ve "Basketbol" olarak iki ayrı sekmede listelenir.
 - **Akıllı Sıralama:** Canlı maçlar her zaman en üstte yer alır ve tüm maçlar kendi içinde başlama saatine göre sıralanır.
 - **Favori Maçlar Sistemi:** Maçlar yıldızlanarak özel bir "Takip Ettiklerim" sekmesine eklenebilir. Favori futbol maçlarında gol olduğunda sesli ve görsel bildirim alınır.
+  ![alt text](https://github.com/awelmisin/Mackolik-Api-Match-Scraper/blob/main/takip.png?raw=true)
+  ![alt text](https://github.com/awelmisin/Mackolik-Api-Match-Scraper/blob/main/bildirim.png?raw=true)
 - **Maç Detay Sayfası:** Her maç için özel detay*, canlı skor ve bildirim özellikleri.
 - **Koyu Mod Desteği:** Tek tuşla açık ve koyu tema arasında geçiş.
 - **Tarihler Arası Gezinti:** Önceki ve sonraki günün maçlarına kolayca erişim.
@@ -25,7 +28,7 @@ Ana fikir: https://github.com/EmreKara5aya/Php-Mackolik-Api
 4.  Tarayıcınızdan `http://localhost/mackolik/canli.php` adresine gidin.
 
 **Örnek Çıktı:**
-
+![alt text](https://github.com/awelmisin/Mackolik-Api-Match-Scraper/blob/main/canli.png?raw=true)
 
 Aramak istediğiniz maçları tarih (dd/mm/yyyy) ve kod adlı get değişkenlerle arayabilir ya da 'canli.php' üzerindeki menüyü kullanarak topluca favorilere ekleyebilir ya da iddaa koduna tıklayarak maçı anlık takip edebilirsiniz.
 "0" kodlu maçlara İddaa tarafından bir kod verilmediği için API tarafından takibi mümkün olmamakta ve anlık güncellemeler yerine dakikalar/saatler içerisinde güncellemeler yapılmaktadır.
@@ -39,11 +42,12 @@ Aramak istediğiniz maçları tarih (dd/mm/yyyy) ve kod adlı get değişkenlerl
 
 **Örnek Link:** 
 
-    siteadresi.com/maclar.php?kod=2436098&tarih=07/10/2025
+    localhost/mackolik/maclar.php?kod=2436098&tarih=07/10/2025
 
 **Örnek Çıktı:**
 
+![alt text](https://github.com/awelmisin/Mackolik-Api-Match-Scraper/blob/main/mac_goruntu.png?raw=true)
 
 ## Bağış
-
-
+- Buymeacoffee: https://buymeacoffee.com/awelmisin
+- USDT: 0x56c0c52c284031e12c3b085871d7fceadd933ec9
